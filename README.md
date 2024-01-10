@@ -43,7 +43,9 @@
 
   <h2>Screenshots</h2>
 
-  <p>Include screenshots of your game here.</p>
+  <div>
+    <img src="/Screenshot.png">
+  </div>
 
   <h2>License</h2>
 
